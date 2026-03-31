@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-    <a href="https://wakatime.com/@AJGecko"><img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=AJGecko&theme=dark&custom_title=Wakatime+Stats&layout=compact" alt="Wakatime Stats" /></a>
+    <a href="https://wakatime.com/@AJGecko"><img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=7554&theme=dark&custom_title=Wakatime+Stats&layout=compact" alt="Wakatime Stats" /></a>
 </h1>
 
 

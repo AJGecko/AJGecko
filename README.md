@@ -2,9 +2,10 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=00FF00&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&lines=AJGecko" alt="Typing SVG" /></a>
 </h1>
 
-<h1 align="center">
-    <a href="https://github-readme-stats.hackclub.dev/api/wakatime?username=7554&api_domain=hackatime.hackclub.com&theme=default&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Wakatime Stats" /></a>
-</h1>
+<p align="center">
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=7554&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Hackatime Stats" />
+</p>
+
 
 
 <!--

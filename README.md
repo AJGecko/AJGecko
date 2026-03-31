@@ -1,4 +1,6 @@
-https://readme-typing-svg.demolab.com?font=Fira+Code&color=FFFFF&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&&lines=AJGecko
+<h1 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FFFFF&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&&lines=AJGecko" alt="Typing SVG" /></a>
+</h1>
 <!--
 **AJGecko/AJGecko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

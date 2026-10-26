@@ -8,7 +8,7 @@
 
 ---
 
-> My Website: https://ajgecko.github.io/
+> My Website: https://ajgecko.dev
 
 
 <!--
